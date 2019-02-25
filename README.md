@@ -25,5 +25,5 @@ The hands-on-lab should work on variations of these Operating Systems.
 Follow the your preferred desktop development environment
 
 1. [Windows](./docs/windows/lab1-connect-raspberry-pi.md)
-2. [Linux](./docs/linix/lab1-connect-raspberry-pi.md)
+2. [Linux](./docs/linux/lab1-connect-raspberry-pi.md)
 3. [macOS](./docs/macos/lab1-connect-raspberry-pi.md)
