@@ -20,8 +20,10 @@ This hands-on lab was developed against the following Operating System releases.
 
 The hands-on-lab should work on variations of these Operating Systems.
 
-## Overview of Hands-on Lab
+# Development Path
 
-1. [Connecting your Raspberry Pi to your Development Machine](./docs/connection-raspberry-pi.md)
-2. [Installing .NET Core on Raspberry Pi](./docs/install-dotnet-core-raspberry-pi.md)
-3. [Installing .NET Core and Visual Studio Code on Development Machine](./docs/install-dotnet-core-desktop.md)
+Follow the your preferred desktop development environment
+
+1. [Windows](./windows/lab1-connection-raspberry-pi.md)
+2. [Linux](./windows/lab1-connection-raspberry-pi.md)
+3. [macOS](./windows/lab1-connection-raspberry-pi.md)
