@@ -20,7 +20,7 @@ This hands-on lab was developed against the following Operating System releases.
 
 The hands-on-lab should work on variations of these Operating Systems.
 
-# Development Path
+## Development Path
 
 Follow the your preferred desktop development environment
 
