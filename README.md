@@ -10,13 +10,13 @@ Create connected .NET Core IoT C# solution with a Raspberry Pi, Azure IoT Hub an
 
 ## Lab Environment
 
-This hands-on lab was developed against the following Operating System releases. 
+This hands-on lab was developed against the following Operating System releases.
 
 |Operating System|Version|
 |----|----|
-|Windows 10| Version 1908|
-|macOS||
-|Ubuntu|18.04|
+|Windows 10| Version 1908 +|
+|macOS| High Sierra +|
+|Ubuntu|18.04 +|
 
 The hands-on-lab should work on variations of these Operating Systems.
 
