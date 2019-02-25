@@ -1,0 +1,6 @@
+format card etc
+enable ssh
+enable i2c and spi
+
+raspi-config - enable spi and i2c
+

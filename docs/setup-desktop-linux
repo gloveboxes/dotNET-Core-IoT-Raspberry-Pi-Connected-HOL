@@ -1,0 +1,4 @@
+enable sshf
+
+
+sudo sshfs -o allow_other -o IdentityFile=~/.ssh/id_rsa pi@10.42.0.165:/home/pi /mnt/rpi3plus
