@@ -5,8 +5,6 @@
 <!-- vscode-markdown-toc -->
 * 1. [Share Wireless Connection with Ethernet Dongle](#ShareWirelessConnectionwithEthernetDongle)
 * 2. [Linux: Configure Shared Network Access](#Linux:ConfigureSharedNetworkAccess)
-* 3. [Windows: Configure Internet Connection Sharing](#Windows:ConfigureInternetConnectionSharing)
-* 4. [macOS: Configure Internet Sharing](#macOS:ConfigureInternetSharing)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -35,9 +33,6 @@ nm-connection-editor
 3. Select Method: Shared to other computers
 4. Click Save
 
-##  3. <a name='Windows:ConfigureInternetConnectionSharing'></a>Windows: Configure Internet Connection Sharing
-
-##  4. <a name='macOS:ConfigureInternetSharing'></a>macOS: Configure Internet Sharing
 
 [HOW TO SHARE INTERNET CONNECTION ON A MAC](https://www.mactip.net/share-internet-connection-mac/)
 
