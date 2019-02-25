@@ -1,4 +1,4 @@
-[**Previous Step**](lab1-connection-raspberry-pi.md)
+[**Previous Step**](lab1-connect-raspberry-pi.md)
 
 [**Home**](../README.md)
 
