@@ -2,17 +2,6 @@
 
 # Connecting your Raspberry Pi
 
-<!-- vscode-markdown-toc -->
-* 1. [Connectivity Options](#ConnectivityOptions)
-* 2. [Sharing your Desktop Internet Connection](#SharingyourDesktopInternetConnection)
-* 3. [Configure Shared Network Access](#ConfigureSharedNetworkAccess)
-
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
-
 ##  1. <a name='ConnectivityOptions'></a>Connectivity Options
 
 There are two ways you can connect your Raspberry Pi to your development machine. 
