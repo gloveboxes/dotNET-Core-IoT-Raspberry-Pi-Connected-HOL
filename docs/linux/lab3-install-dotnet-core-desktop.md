@@ -4,11 +4,11 @@
 
 # Set up Development Desktop Environment
 
-##  1. <a name='Install.NETCore'></a>Install .NET Core
+## <a name='Install.NETCore'></a>Install .NET Core
 
-##  2. <a name='InstallVisualStudioCode'></a>Install Visual Studio Code
+## <a name='InstallVisualStudioCode'></a>Install Visual Studio Code
 
-##  3. <a name='InstallCVisualStudioExtension'></a>Install C# Visual Studio Extension
+## <a name='InstallCVisualStudioExtension'></a>Install C# Visual Studio Extension
 
 [Working with C#](https://code.visualstudio.com/docs/languages/csharp)
 
