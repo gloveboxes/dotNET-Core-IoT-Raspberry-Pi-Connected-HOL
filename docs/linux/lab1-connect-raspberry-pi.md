@@ -1,10 +1,11 @@
-[**Home**](../README.md)
+[**Home**](../../README.md)
 
-# Connect Raspberry Pi to your Development Machine
+# Connecting your Raspberry Pi
 
 <!-- vscode-markdown-toc -->
-* 1. [Share Wireless Connection with Ethernet Dongle](#ShareWirelessConnectionwithEthernetDongle)
-* 2. [Linux: Configure Shared Network Access](#Linux:ConfigureSharedNetworkAccess)
+* 1. [Connectivity Options](#ConnectivityOptions)
+* 2. [Sharing your Desktop Internet Connection](#SharingyourDesktopInternetConnection)
+* 3. [Configure Shared Network Access](#ConfigureSharedNetworkAccess)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -12,7 +13,14 @@
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
-##  1. <a name='ShareWirelessConnectionwithEthernetDongle'></a>Share Wireless Connection with Ethernet Dongle
+##  1. <a name='ConnectivityOptions'></a>Connectivity Options
+
+There are two ways you can connect your Raspberry Pi to your development machine. 
+
+1. You can connect to the Raspberry Pi to the same Wifi or Ethernet network as your development machine. This is great for home networks where your Raspberry Pi is the only one on the network.
+2. or, using a USB Ethernet dongle connect directly to your development machine and share your desktop internet connection. This provides a fast direct connection to your Raspberry Pi and, it is espically useful in workshop environments as it isolates your Raspberry Pi from others on the network. The downside is you need to buy a USB Ethernet dongle and Ethernet cable.  
+
+##  2. <a name='SharingyourDesktopInternetConnection'></a>Sharing your Desktop Internet Connection
 
 ![](./resources/rpi-with-ethernet-dongle.jpg)
 
@@ -20,7 +28,7 @@ The easiest and fastest way to connect a Raspberry Pi to your development machin
 
 You need to share the internet connection from your development machine with the USB Dongle Ethernet connection to the raspberry Pi. 
 
-##  2. <a name='Linux:ConfigureSharedNetworkAccess'></a>Linux: Configure Shared Network Access
+##  3. <a name='ConfigureSharedNetworkAccess'></a>Configure Shared Network Access
 
 ```bash
 nm-connection-editor
@@ -33,11 +41,8 @@ nm-connection-editor
 3. Select Method: Shared to other computers
 4. Click Save
 
-
-[HOW TO SHARE INTERNET CONNECTION ON A MAC](https://www.mactip.net/share-internet-connection-mac/)
-
 ***
 
 [**Next Step**](lab2-install-dotnet-core-raspberry-pi.md)
 
-[**Home**](../README.md)
+[**Home**](../../README.md)

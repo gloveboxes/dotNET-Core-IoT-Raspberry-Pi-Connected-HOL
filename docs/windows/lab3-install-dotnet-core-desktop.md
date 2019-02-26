@@ -1,6 +1,6 @@
 [**Previous Step**](lab2-install-dotnet-core-raspberry-pi.md)
 
-[**Home**](../README.md)
+[**Home**](../../README.md)
 
 # Set up Development Desktop Environment
 
@@ -55,4 +55,4 @@ ext install ms-vscode.csharp
 
 [**Next Step**](lab4-hello-world.md)
 
-[**Home**](../README.md)
+[**Home**](../../README.md)

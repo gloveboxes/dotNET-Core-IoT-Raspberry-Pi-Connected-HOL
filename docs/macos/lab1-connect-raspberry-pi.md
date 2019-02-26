@@ -1,4 +1,4 @@
-[**Home**](../README.md)
+[**Home**](../../README.md)
 
 # Connect Raspberry Pi to your Development Machine
 
@@ -45,4 +45,4 @@ nm-connection-editor
 
 [**Next Step**](lab2-install-dotnet-core-raspberry-pi.md)
 
-[**Home**](../README.md)
+[**Home**](../../README.md)

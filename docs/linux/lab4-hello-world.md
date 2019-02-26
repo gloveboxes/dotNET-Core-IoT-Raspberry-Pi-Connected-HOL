@@ -1,6 +1,6 @@
 [**Previous Step**](lab3-install-dotnet-core-desktop.md)
 
-[**Home**](../README.md)
+[**Home**](../../README.md)
 
 
 # Test Development Environment
@@ -47,4 +47,4 @@ code . -n
 
 [**Next Step**](lab5-setup-iot-hub.md)
 
-[**Home**](../README.md)
+[**Home**](../../README.md)

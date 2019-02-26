@@ -1,6 +1,6 @@
 [**Previous Step**](lab1-connect-raspberry-pi.md)
 
-[**Home**](../README.md)
+[**Home**](../../README.md)
 
 # Set up your Raspberry Pi
 
@@ -85,4 +85,4 @@ curl -sSL https://aka.ms/getvsdbgsh | bash /dev/stdin -r linux-arm -v latest -l 
 
 [**Next Step**](lab3-install-dotnet-core-desktop.md)
 
-[**Home**](../README.md)
+[**Home**](../../README.md)
