@@ -4,13 +4,13 @@
 
 # Set up your Raspberry Pi
 
-## <a name='StartanSSHConnectiontotheRaspberryPi'></a>Start an SSH Connection to the Raspberry Pi
+## Start an SSH Connection to the Raspberry Pi
 
 ```bash
 ssh pi@raspberry.local
 ```
 
-## <a name='UpdateRaspbianLinux'></a>Update Raspbian Linux
+## Update Raspbian Linux
 
 This will update Raspbian Linux to the latest version and then reboot the Raspberry Pi.
 
@@ -18,13 +18,13 @@ This will update Raspbian Linux to the latest version and then reboot the Raspbe
 sudo apt update && sudo apt upgrade -y && sudo reboot
 ```
 
-## <a name='RestarttheSSHConnectiontotheRaspberryPi'></a>Restart the SSH Connection to the Raspberry Pi
+## Restart the SSH Connection to the Raspberry Pi
 
 ```bash
 ssh pi@raspberry.local
 ```
 
-## <a name='EnableI2CandSPI'></a>Enable I2C and SPI
+## Enable I2C and SPI
 
 From the Raspberry Pi command line start the the Raspberry Pi Configurator
 

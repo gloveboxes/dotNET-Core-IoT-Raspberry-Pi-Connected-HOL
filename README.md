@@ -24,6 +24,6 @@ The hands-on-lab should work on variations of these Operating Systems.
 
 Follow the your preferred desktop development environment
 
-1. [Windows 10](./docs/windows/lab1-connect-raspberry-pi.md)
-2. [Ubuntu 18.04](./docs/linux/lab1-connect-raspberry-pi.md)
-3. [macOS High Sierra](./docs/macos/lab1-connect-raspberry-pi.md)
+1. [Windows 10](./docs/windows/lab0-setup-raspberry-pi.md)
+2. [Ubuntu 18.04](./docs/linux/lab0-setup-raspberry-pi.md)
+3. [macOS High Sierra](./docs/macos/lab0-setup-raspberry-pi.md)
